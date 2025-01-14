@@ -23,9 +23,11 @@ Then install the package:
 pip install .
 ```
 ## Examples
+
 | Notebooks | Google&nbsp;Colab | Descriptions |
 | --- | --- | --- |
-| [Figure 2_Cube File Generation](https://colab.research.google.com/github/niapollard/Benchmarking-Quantum-Algorithms-for-Materials-Discovery-and-Design/blob/main/Cube_File_Generation.ipynb) | [![Open in Google Colab]](https://colab.research.google.com/github/niapollard/Benchmarking-Quantum-Algorithms-for-Materials-Discovery-and-Design/blob/main/Cube_File_Generation.ipynb)] | Description of Notebook 1. |
+
+| [Cube File Generation](https://colab.research.google.com/github/niapollard/Benchmarking-Quantum-Algorithms-for-Materials-Discovery-and-Design/blob/main/Cube_File_Generation.ipynb) | [![Open in Google Colab]](https://colab.research.google.com/github/niapollard/Benchmarking-Quantum-Algorithms-for-Materials-Discovery-and-Design/blob/main/Cube_File_Generation.ipynb)] | Cube file generation for electronic denisty visualization. |
 
 
 
