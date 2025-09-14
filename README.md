@@ -119,6 +119,8 @@ This project is licensed under the NIST License - see the [LICENSE](LICENSE) fil
 
 - This package uses [Qiskit](https://qiskit.org/), an open-source SDK for working with quantum computers.
 
+Note: This project was originally developed under the github.com/usnistgov organization. New updates and developments will be carried out here.
+
 ## Contact
 
 For more information, please contact [Nia Pollard](mailto:nia.rodney-pollard@nist.gov).
